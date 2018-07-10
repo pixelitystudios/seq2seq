@@ -13,3 +13,9 @@ Una de las cosas realmente buenas de usar un modelo de secuencia a secuencia es 
 Para más información puedes acceder a este artículo
 
 https://pixelitymarketing.com/@pixelitystudios.ml/crea-tu-primer-chatbot-con-python
+
+## Requerimientos
+* python 3.5+
+* Tensorflow
+* pandas
+* numpy
